@@ -1,2 +1,13 @@
-# github-learning
-My first GitHub repository for learning.
+# 我的GitHub学习仓库
+
+这是我的第一个GitHub项目。
+
+## 我的目标
+
+- 学会GitHub基础操作
+- 学习开源项目
+- 记录学习过程
+
+开始时间：
+
+2026年9月
